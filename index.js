@@ -2,7 +2,6 @@
   const convertTime = async (input) => {
     const parts = input.split(" ");
 
-    console.debug(parts);
     let hours = 0;
     let minutes = 0;
 
